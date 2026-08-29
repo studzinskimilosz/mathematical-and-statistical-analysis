@@ -17,7 +17,10 @@ The analysis follows a structured data pipeline to ensure reproducibility:
 - **Libraries:** Pandas, NumPy, SciPy, Matplotlib, Seaborn
 - **Environment:** Jupyter Notebook
 
-
+## 📊 Data Sources
+The historical stock data for PGE SA is sourced from:
+* **[Stooq.pl / Yahoo Finance / GPW]** - Daily open, high, low, close (OHLC) prices and trading volume.
+* Data timeframe: `YYYY-MM-DD` to `YYYY-MM-DD`.
 
 ## 📚 Literature
 The theoretical and methodological foundation of this project is based on the following resources:
